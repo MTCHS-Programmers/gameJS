@@ -1,0 +1,9 @@
+{
+    "settings": {
+        "private": true,
+        "ownerID": 0
+    },
+    "template": {
+        "load": false
+    }
+}
